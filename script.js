@@ -94,7 +94,7 @@ function loadQuiz() {
   deselectAnswers();
 
   const currentQuizData = quizData[currentQuiz];
-  console.log(shuffleQuestions);
+
   questionEl.innerHTML = currentQuizData.question;
   a_text.innerHTML = currentQuizData.a;
   b_text.innerHTML = currentQuizData.b;
