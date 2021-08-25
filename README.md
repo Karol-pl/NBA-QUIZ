@@ -1,5 +1,5 @@
 # NBA-QUIZ
-Simple vanilla javascript quiz app 
+Simple vanilla javascript quiz app with randomized question order, it also shows your result after answering all questions and allows you to reload it and do the quiz again!
 
 ## **SEE LIVE:**
 **https://karol-pl.github.io/NBA-QUIZ/**
